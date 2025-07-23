@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/ff3bd311cbe44550b0acfd6a6f9c84aa/artifacts
+end_time: 1753250699132
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: ff3bd311cbe44550b0acfd6a6f9c84aa
+run_name: dapper-duck-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753250686529
+status: 3
+tags: []
+user_id: praha

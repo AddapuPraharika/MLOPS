@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/dd5009954c3c4769a55f1e531c98c4c5/artifacts
+end_time: 1753251023769
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: dd5009954c3c4769a55f1e531c98c4c5
+run_name: lyrical-bird-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251019575
+status: 3
+tags: []
+user_id: praha
