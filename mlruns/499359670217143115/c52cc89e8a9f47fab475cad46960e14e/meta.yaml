@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/c52cc89e8a9f47fab475cad46960e14e/artifacts
+end_time: 1753334351375
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: c52cc89e8a9f47fab475cad46960e14e
+run_name: skittish-bug-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334347108
+status: 3
+tags: []
+user_id: praha

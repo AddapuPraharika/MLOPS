@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/bfe187dfea8f44f3b65aa0142e5bc825/artifacts
+end_time: 1753333461877
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: bfe187dfea8f44f3b65aa0142e5bc825
+run_name: luminous-fawn-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753333448474
+status: 3
+tags: []
+user_id: praha

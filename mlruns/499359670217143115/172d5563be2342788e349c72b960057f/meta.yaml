@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/172d5563be2342788e349c72b960057f/artifacts
+end_time: 1753334305494
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: 172d5563be2342788e349c72b960057f
+run_name: enthused-lamb-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334293222
+status: 3
+tags: []
+user_id: praha
