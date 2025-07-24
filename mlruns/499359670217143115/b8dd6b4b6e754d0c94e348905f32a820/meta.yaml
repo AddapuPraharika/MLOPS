@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/b8dd6b4b6e754d0c94e348905f32a820/artifacts
+end_time: 1753349154702
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: b8dd6b4b6e754d0c94e348905f32a820
+run_name: serious-boar-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753349150755
+status: 3
+tags: []
+user_id: praha

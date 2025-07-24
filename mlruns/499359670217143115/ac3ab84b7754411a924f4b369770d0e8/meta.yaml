@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/mlruns/499359670217143115/ac3ab84b7754411a924f4b369770d0e8/artifacts
+end_time: 1753349140851
+entry_point_name: ''
+experiment_id: '499359670217143115'
+lifecycle_stage: active
+run_id: ac3ab84b7754411a924f4b369770d0e8
+run_name: crawling-mink-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753349136954
+status: 3
+tags: []
+user_id: praha

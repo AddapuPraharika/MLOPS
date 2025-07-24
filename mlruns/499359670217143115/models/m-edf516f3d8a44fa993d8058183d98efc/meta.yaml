@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOPS/mlruns/499359670217143115/models/m-edf516f3d8a44fa993d8058183d98efc/artifacts
+creation_timestamp: 1753349150921
+experiment_id: '499359670217143115'
+last_updated_timestamp: 1753349154624
+model_id: m-edf516f3d8a44fa993d8058183d98efc
+model_type: null
+name: student_model
+source_run_id: b8dd6b4b6e754d0c94e348905f32a820
+status: 2
+status_message: null
